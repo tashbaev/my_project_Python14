@@ -1,3 +1,3 @@
-print("Hello w  o  r  l  d!!!")
+print("Hello JS!!!")
 
 print("Python")
